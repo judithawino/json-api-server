@@ -67,43 +67,43 @@
    "prev-work":[
        {
            "id":1,
-           "work-name":"Birthday Party",
-           "image_url":"https://drive.google.com/file/d/1R8O_SnyZkYEujNYLxlKEAXru07ChKGHF/view?usp=sharing"
+           "workName":"Birthday Party",
+           "imageUrl":"https://drive.google.com/file/d/1R8O_SnyZkYEujNYLxlKEAXru07ChKGHF/view?usp=sharing"
        },
 
        {
            "id":2,
-           "work-name":"Traditional marriage Ceremony",
-           "image_url":"https://drive.google.com/file/d/1ChcxOISm-WXDanYfTALSwhzJINnMavDr/view?usp=sharing"
+           "workName":"Traditional marriage Ceremony",
+           "imageUrl":"https://drive.google.com/file/d/1ChcxOISm-WXDanYfTALSwhzJINnMavDr/view?usp=sharing"
        },
        {
            "id":3,
-           "work-name":"Baby Shower",
-           "image_url":"https://drive.google.com/file/d/15IZscsWXenPq9BcbxghSy9-VHVJsMoqI/view?usp=sharing"
+           "workName":"Baby Shower",
+           "imageUrl":"https://drive.google.com/file/d/15IZscsWXenPq9BcbxghSy9-VHVJsMoqI/view?usp=sharing"
        },
        {
            "id":4,
-           "work-name":"Room setup",
-           "image_url":"https://drive.google.com/file/d/1RIpoEpXQGgPTvEWzx2QTFsRBOtvSYxmE/view?usp=sharing"
+           "workName":"Room setup",
+           "imageUrl":"https://drive.google.com/file/d/1RIpoEpXQGgPTvEWzx2QTFsRBOtvSYxmE/view?usp=sharing"
        }
    ],
 
    "feedback":[
        {
            "id":1,
-           "cust-name":"Judith Omondi",
+           "custName":"Judith Omondi",
            "content":"Great work ethics. You exceeded my expectations and I was amazed with your work. Thank you Tanleys' "
        },
 
        {
            "id":2,
-           "cust-name":"Faith Abby",
+           "custName":"Faith Abby",
            "content":"You brought life to my bridal payment ceremony. Thank you for your services."
        },
 
        {
            "id":3,
-           "cust-name":"Kennedy Wekesa",
+           "custName":"Kennedy Wekesa",
            "content":"Guys, with Tanleys' you will never go wrong. Thank you for coming through for me and helping me organize a surprise birthday gift for my spouse."
        }
    ]
